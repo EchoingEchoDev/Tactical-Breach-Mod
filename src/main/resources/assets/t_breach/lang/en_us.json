@@ -1,0 +1,13 @@
+{
+  "itemGroup.t_breach": "Tactical Breach Mod",
+  "block.t_breach.example_block": "Example Block",
+  "item.t_breach.example_item": "Example Item",
+
+  "t_breach.configuration.title": "Example Mod Configs",
+  "t_breach.configuration.section.t_breach.common.toml": "Example Mod Configs",
+  "t_breach.configuration.section.t_breach.common.toml.title": "Example Mod Configs",
+  "t_breach.configuration.items": "Item List",
+  "t_breach.configuration.logDirtBlock": "Log Dirt Block",
+  "t_breach.configuration.magicNumberIntroduction": "Magic Number Text",
+  "t_breach.configuration.magicNumber": "Magic Number"
+}
